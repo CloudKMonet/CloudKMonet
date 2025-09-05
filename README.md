@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-I’m a freelance coder always on the lookout for new opportunities and interesting projects! My main focus is on **C#** and **Python**, but I also enjoy working with **Swift** and **Java**—but! I am always looking to expand my skills.
+I’m a freelance coder always on the lookout for new opportunities and interesting projects! My main focus is on **C#** and **Python**, but I also enjoy working with **Swift** and **Java**. I am always looking to expand my skills and continue growing them.
 
 - 🌱 **Forever Learner:** Every win and every fail is a lesson. I post all my code—successes and not-yet-successes—because I believe in learning from both. Sometimes a “loss” today becomes a big “win” tomorrow!
 - 🏆 **Project Leader:** Led my senior college capstone project, partnering with campus security to build a web solution for the Campus Security Shuttle Service. The project helped streamline safe ride requests and reduce phone line congestion.
