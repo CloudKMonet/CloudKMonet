@@ -42,6 +42,7 @@ I’m an aspiring freelance coder always on the lookout for new opportunities an
 - **Role:** Project Team Leader. I became the project team leader midway through the project. This was to help balance out roles and facilitate a schedule between my teammates, the professor, and the client when we woud need to check in about features, progress, and fulfill some basics in project management (upkeeping morale, sending practical end of the week progress report as well as project to-do lists at the beginning of the week, making sure that consistent deliverables were being met, as well as checking in with the client about any extra critiques or suggestions on the projects formatted desired features).
 - **Goal:** Streamline student ride requests for campus safe rides and reduce phone congestion for campus security.  
 - **Impact:** Provided a web interface for shuttle requests thereby making getting a ride around campus safer and freeing up security resources- the web interface was active and readily available for two different presentations. One to some of our campus' private investors, and the second was to the person directly in charge of campus security (the financial side of it) above the campus security head of staff.
+- You can see pictures about this on my protfolio! 📝⭐️
 
 ---
 
